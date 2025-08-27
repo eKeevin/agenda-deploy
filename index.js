@@ -1,6 +1,5 @@
 import express from 'express';
 import cors from 'cors'
-import { a } from 'framer-motion/client';
 import morgan from 'morgan'
 
 const app = express();
